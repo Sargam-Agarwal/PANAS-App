@@ -1,16 +1,36 @@
-# panas
+# PANAS APP
 
-A new Flutter application.
+The Positive and Negative Affect Schedule or (PANAS) is a scale that consists of different words that describe feelings and emotions. One of these scales measures positive affect, and the other measures negative affect.
 
-## Getting Started
+This PANAS App measures both positive and negative emotions for the users (on the basis of their responses) from week-to-week as they engage in everyday life. More the positive score, the better.
 
-This project is a starting point for a Flutter application.
+The PANAS is designed around 20 items of affect. The scale is comprised of several words that describe different emotions and feelings. 
+1. Interested
+2. Distressed
+3. Excited
+4. Upset
+5. Strong
+6. Guilty
+7. Scared
+8. Hostile
+9. Enthusiastic
+10. Proud
+11. Irritable
+12. Alert
+13. Ashamed
+14. Inspired
+15. Nervous
+16. Determined
+17. Attentive
+18. Jittery
+19. Active
+20. Afraid
 
-A few resources to get you started if this is your first Flutter project:
+PANAS uses a 5-point scale : 
+1. Very Slightly or Not at All.
+2. A Little.
+3. Moderately.
+4. Quite a Bit.
+5. Extremely.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
